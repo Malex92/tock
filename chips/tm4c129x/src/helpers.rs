@@ -1,0 +1,2 @@
+
+use kernel::common::VolatileCell;
